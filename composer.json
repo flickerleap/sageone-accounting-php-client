@@ -1,0 +1,15 @@
+{
+    "name": "root/sageone-accounting-php-client",
+    "authors": [
+        {
+            "name": "Matthew Hodge",
+            "email": "mhodge.webdev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Api\\": "Api/"
+        }
+    }
+}
