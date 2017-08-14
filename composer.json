@@ -4,7 +4,11 @@
         {
             "name": "Matthew Hodge",
             "email": "mhodge.webdev@gmail.com"
-        }
+        },
+        {
+            "name": "Seagyn Davis",
+            "email": "seagyn@flickerleap.co.za"
+        },
     ],
     "require": {},
     "autoload": {
